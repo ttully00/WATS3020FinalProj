@@ -1,0 +1,40 @@
+div.tab {
+    overflow: hidden;
+    border: 5px solid #ccc;
+    background-color: Red;
+  
+  body {font-family: ;} 
+}
+  .nav-tabs{
+    
+    >li {
+      
+     > a {
+        
+        &:hover {
+        }
+        
+               
+}
+      &.active {
+        > a,
+        > a:hover,
+          > a:focus {
+            
+        }
+      }
+    }
+  }
+  .tab-content {
+    
+    > .tab-pane {
+      
+      &.active {
+        
+      }
+    }
+    > .active {
+      
+    }
+  }
+}
